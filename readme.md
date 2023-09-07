@@ -2,4 +2,4 @@
 
 스파링 좋지만 싫어요 1
 
-jira - example update
+jira - example update kan
